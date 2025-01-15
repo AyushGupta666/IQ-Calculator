@@ -42,7 +42,7 @@ A modern web application that evaluates cognitive abilities through interactive 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iq-calculator.git
+git clone https://github.com/AyushGupta666/IQ-Calculator
 cd iq-calculator
 ```
 
